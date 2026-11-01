@@ -71,5 +71,7 @@
 
 <p>如果你也在折腾 Linux、参与开源，或者只是想聊聊游戏和足球，欢迎认识一下。项目相关的问题和讨论，可以在对应仓库碰面。</p>
 
+<p>📮 邮箱：<a href="mailto:yekaisen2023@163.com">yekaisen2023@163.com</a></p>
+
 <hr>
 <p align="center"><sub>感谢来访。代码慢慢写，球也慢慢聊。——叶总 ✦</sub></p>
